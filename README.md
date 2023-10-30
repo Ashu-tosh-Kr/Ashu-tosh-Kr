@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**, **Node**, **Javascript**
 
 - 📫 How to reach me **kr.ashu465@gmail.com**
 
